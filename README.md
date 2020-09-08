@@ -1,1 +1,1 @@
-# A collection of database concepts which can be used to improve coding skills
+# A collection of database concepts which can be used to improve coding skills.
