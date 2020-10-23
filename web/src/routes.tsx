@@ -5,7 +5,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Landing from "./pages/Landing";
 import OrphanagesMap from './pages/OrphanagesMap';
 
-const Routes: React.FC = () => {
+const Routes = () => {
   return (
     <BrowserRouter>
       <Switch>
