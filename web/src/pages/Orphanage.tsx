@@ -39,7 +39,7 @@ export default function Orphanage() {
   }, [params.id]);
 
   if (!orphanage) {
-    return <p>Carregando ...</p>;
+    return <p>Loading ...</p>;
   }
 
   return (
