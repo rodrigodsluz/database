@@ -14,8 +14,8 @@ import { Feather, FontAwesome } from '@expo/vector-icons';
 import { RectButton } from 'react-native-gesture-handler';
 import { useRoute } from '@react-navigation/native'
 
-import mapMarkerImg from '../images/map-marker.png';
-import api from '../services/api";
+import mapMarkerImg from "../images/map-marker.png";
+import api from "../services/api";
 
 interface OrphanageDetailsParams {
   id: number;
