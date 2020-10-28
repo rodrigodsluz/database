@@ -28,7 +28,9 @@
 Happy is a project developed based on Children's Day. The goal is to connect people to orphanages making children's day more special.
 
 ---
+
 To visualize the deployed website click on this link: https://happy-rodrigodsluz.netlify.app/
+
 ---
 
 <h1 align="center">
