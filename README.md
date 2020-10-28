@@ -25,8 +25,7 @@
 
 ## 💻 Project
 
-Happy is a project developed based on Children's Day. 
-That aims to connect people to orphanages that allow to make a children's day more special.
+Happy is a project developed based on Children's Day. The goal is to connect people to orphanages making children's day more special.
 
 <h1 align="center">
     <img alt="Example" title="Example" src=".github/happy.png" width="100%" />
