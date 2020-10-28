@@ -29,7 +29,7 @@ Happy is a project developed based on Children's Day. The goal is to connect peo
 
 ---
 
-To visualize the deployed website click on this link: https://happy-rodrigodsluz.netlify.app/
+You can acess the website at: https://happy-rodrigodsluz.netlify.app/
 
 ---
 
