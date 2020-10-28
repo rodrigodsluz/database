@@ -58,7 +58,7 @@ export default function OrphanageDetails() {
   }
 
   const handleOpenGoogleMapsRoutes = () => {
-    Linking.openURL(`http://maps.google.com/maps?saddr=${orphanage.latitude},${orphanage.longitude}`);
+    Linking.openURL(`https://www.google.com/maps/dir/?api=1&destination=${orphanage.latitude},${orphanage.longitude}`);
   }
  
   return (

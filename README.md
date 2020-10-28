@@ -41,7 +41,7 @@ This project was developed with the following technologies:
 - [TypeScript][typescript]
 - [React][reactjs]
 - [React Native][rn]
-<!-- - [Expo][expo] -->
+- [Expo][expo]
 
 ## 🔖 Layout
 
@@ -92,9 +92,9 @@ $ yarn start
 # running on port 3000
 ```
 
-<!-- ### Install Mobile -->
+### Install Mobile
 
-<!-- ```bash
+```bash
 # Clone this repository
 $ git clone https://https://github.com/rodrigodsluz/happy
 
@@ -112,11 +112,13 @@ $ yarn start
 # If some problem with fonts, execute:
 $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 
-``` -->
+```
 
 ## :memo: License
 
 This project is under the MIT license. See the [LICENSE](https://github.com/rodrigodsluz/happy/blob/master/LICENSE) for details.
+
+---
 
 Made with ♥ by Rodrigo Duarte :wave: [Get in touch!](https://www.linkedin.com/in/rodrigodsluz/)
 
